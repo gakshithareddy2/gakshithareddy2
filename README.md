@@ -36,8 +36,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="380" alt="Female Web Developer"
-src="./assets/female-web-developer.gif">
+<img align="right" alt="Coding" width="360" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRkZW1veTdrdm9kNHc5aHBvdjg5bDNjeXVjNHZlNTdhZWx4bHh4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"/>
 
 ```javascript
 const Akshitha = {
