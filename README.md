@@ -42,39 +42,16 @@
 const akshitha = {
     pronouns: "She/Her",
     location: "Hyderabad, India 🇮🇳",
-
-    currentFocus: "AI-powered Web Applications 🔭",
-
-    learning: [
-        "MERN Stack",
-        "Deep Learning",
-        "AI Agents",
-        "Cloud Computing",
-        "System Design"
-    ],
-
-    interests: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Full Stack Development",
-        "Data Analytics",
-        "Problem Solving"
-    ],
-
-    skills: [
-        "Building Web Applications",
-        "Creating AI-powered Solutions",
-        "Working with APIs",
-        "Solving Real-world Problems"
-    ],
-
-    motto: "Every great idea starts with a simple What if?",
+    currentFocus: "AI-powered Web Applications 🤖",
+    learning: ["MERN Stack", "Data Analytics"],
+    interests: ["Problem Solving", "Web Development", "AI/ML"],
+    motto: "Every great idea starts with a simple 'What if? ✨",
 
     lifeLoop: function() {
         while(alive) {
             learn();
+            code();
             build();
-            improve();
             repeat();
         }
     }
