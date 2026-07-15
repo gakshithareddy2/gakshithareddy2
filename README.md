@@ -106,58 +106,6 @@ const Akshitha = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚚 VAN MAN
-MERN stack moving service platform with booking, authentication, reviews and admin features.
-
-**Tech:** React, Node.js, Express, MongoDB  
-
-<a href="https://github.com/gakshithareddy2/moving-service-app">GitHub</a>
-
-</td>
-<td width="50%">
-
-### 📄 Resume Analyzer
-AI-powered resume parser that extracts details, detects skills and matches resumes with job descriptions.
-
-**Tech:** Python, FastAPI, NLP  
-
-<a href="https://github.com/gakshithareddy2/Resume-Analyzer">GitHub</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚌 Campus Shuttle
-Smart campus shuttle routing and capacity scheduling system using graph algorithms.
-
-**Tech:** Python, Graph Algorithms  
-
-<a href="https://github.com/gakshithareddy2/CampusShuttle">GitHub</a>
-
-</td>
-<td width="50%">
-
-### ✅ Kanban Board
-Task management board with priority tracking, progress updates and clean UI.
-
-**Tech:** React, JavaScript  
-
-<a href="https://github.com/gakshithareddy2/kanban-board">GitHub</a>
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
