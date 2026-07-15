@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=180&section=header&text=Akshitha%20Reddy&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Akshitha%20Reddy&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=750&height=80&lines=AI+%26+ML+Student+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Learner+%E2%9A%A1;Building+AI+Powered+Apps+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%92%9C" alt="Typing SVG" />
 
