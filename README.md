@@ -109,17 +109,9 @@ const Akshitha = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gakshithareddy2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gakshithareddy2&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=gakshithareddy2&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=gakshithareddy2&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -127,7 +119,15 @@ const Akshitha = {
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&theme=tokyo-night&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
