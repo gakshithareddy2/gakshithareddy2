@@ -13,8 +13,6 @@ Passionate about Artificial Intelligence, Machine Learning and Full Stack Develo
 I enjoy turning ideas into practical applications that solve real-world problems.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=gakshithareddy2&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 <br><br>
 
 <a href="https://github.com/gakshithareddy2">
