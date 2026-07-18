@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=220&section=header&text=Akshitha%20Reddy&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&height=80&lines=AI%2FML+Student+at+Woxsen+University;Building+AI-Powered+Applications;Deep+Learning+%7C+Data+Analytics+%7C+Full+Stack;Turning+Ideas+into+Real+Projects;Always+Learning🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&height=80&lines=AI%2FML+Student;Building+AI-Powered+Applications;Deep+Learning+%7C+Data+Analytics+%7C+Full+Stack;Turning+Ideas+into+Real+Projects;Always+Learning🚀" />
 
 <h3>
 Hi 👋 I'm <b>Akshitha Reddy</b>
