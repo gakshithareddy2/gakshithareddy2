@@ -27,6 +27,7 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
+
 ```javascript
 const Akshitha = {
     pronouns: "She/Her",
