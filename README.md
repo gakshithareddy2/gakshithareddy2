@@ -144,29 +144,22 @@ const Akshitha = {
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gakshithareddy2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=gakshithareddy2&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7"/>
-
-</div>
-
-<br>
+<h1 align="center">🐍 Contribution Snake</h1>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake.svg" />
+</picture>
 
 </div>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake-dark.svg"/>
