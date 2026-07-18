@@ -69,60 +69,59 @@ const Akshitha = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> 
-  Tech Arsenal
-</h2>
+<h1 align="center">
+🛠️ Tech Stack
+</h1>
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
+## 👩‍💻 Programming Languages
 
-#### 🎨 Frontend Magic
-<div align="center">  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 
-#### ⚙️ Backend Power
-<div align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</div>
+---
 
-</td>
-<td valign="top" width="50%">
+## 🌐 Frontend Development
 
-#### 🗄️ Database & Cloud
-<div align="center">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-</div>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 
-#### 💻 Languages & Tools
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</div>
+---
 
-</td>
-</tr>
-</table>
+## ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+
+---
+
+## 🤖 AI / Machine Learning
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,matplotlib" />
+
+---
+
+## 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+---
+
+## ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=vercel,git,github" />
+
+---
+
+## 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,Google colab,jupyter notebook" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
