@@ -126,9 +126,10 @@ const Akshitha = {
 
 <br>
 
-<!-- GitHub Contribution Calendar -->
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7F00FF/gakshithareddy2" alt="GitHub Contributions"/>
+<img src="https://ghchart.rshah.org/gakshithareddy2" alt="GitHub Contributions"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=120&section=footer"/>
