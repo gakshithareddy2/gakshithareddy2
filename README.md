@@ -109,16 +109,6 @@ const Akshitha = {
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=gakshithareddy2&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="40%" src="https://nirzak-streak-stats.vercel.app/?user=gakshithareddy2&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
