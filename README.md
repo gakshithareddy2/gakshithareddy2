@@ -119,7 +119,7 @@ const Akshitha = {
 
 <div align="center">
 
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
