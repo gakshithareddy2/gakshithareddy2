@@ -136,11 +136,15 @@ const Akshitha = {
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake.svg">
+    <img alt="GitHub Snake"
+      src="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake.svg">
+  </picture>
 </div>
-
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=120&section=footer"/>
