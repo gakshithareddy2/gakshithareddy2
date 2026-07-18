@@ -123,15 +123,17 @@ const Akshitha = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h1 align="center">
-📊 GitHub Analytics
-</h1>
+<h1 align="center">📊 GitHub Analytics</h1>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gakshithareddy2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF"/>
+<a href="https://github.com/gakshithareddy2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gakshithareddy2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</a>
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=gakshithareddy2&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=7F00FF&currStreakLabel=00F7F7"/>
+<a href="https://github.com/gakshithareddy2">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gakshithareddy2&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
@@ -139,27 +141,33 @@ const Akshitha = {
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF"/>
+<a href="https://github.com/gakshithareddy2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
 <br>
 
-<h2 align="center">
-🏆 GitHub Trophies
-</h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gakshithareddy2&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gakshithareddy2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
 
 </div>
 
 <br>
 
-<h2 align="center">
-📈 Contribution Graph
-</h2>
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
