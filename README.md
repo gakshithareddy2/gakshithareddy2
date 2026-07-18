@@ -156,28 +156,6 @@ const Akshitha = {
 
 </div>
 
-<br>
-
-<div align="center">
-
-<a href="https://github.com/gakshithareddy2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<br>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gakshithareddy2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
-</div>
-
-<br>
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
