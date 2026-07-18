@@ -132,7 +132,7 @@ const Akshitha = {
 </a>
 
 <a href="https://github.com/gakshithareddy2">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gakshithareddy2&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=gakshithareddy2&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -149,16 +149,6 @@ const Akshitha = {
 
 <br>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gakshithareddy2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
-</div>
-
-<br>
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
@@ -169,11 +159,4 @@ const Akshitha = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&theme=tokyo-night&hide_border=true&area=true&custom_title=Akshitha's%20GitHub%20Contribution%20Graph"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
