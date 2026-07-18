@@ -146,28 +146,11 @@ const Akshitha = {
 
 <div align="center">
 
-<a href="https://github.com/gakshithareddy2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gakshithareddy2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/gakshithareddy2">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gakshithareddy2&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake-dark.svg"/>
