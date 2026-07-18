@@ -120,14 +120,15 @@ const Akshitha = {
 
 <div align="center">
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <br>
 
+<!-- GitHub Contribution Calendar -->
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&theme=tokyo-night&hide_border=true"/>
+<img src="https://ghchart.rshah.org/7F00FF/gakshithareddy2" alt="GitHub Contributions"/>
 
 </div>
