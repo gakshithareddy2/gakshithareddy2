@@ -127,8 +127,9 @@ const Akshitha = {
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/gakshithareddy2" alt="GitHub Contributions"/>
-
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&theme=tokyo-night&hide_border=true"/>
+</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=120&section=footer"/>
