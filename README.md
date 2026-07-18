@@ -1,39 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=220&section=header&text=Akshitha%20Reddy&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=180&section=header&text=Akshitha%20Reddy&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&height=80&lines=AI%2FML+Student;Building+AI-Powered+Applications;Deep+Learning+%7C+Data+Analytics+%7C+Full+Stack;Turning+Ideas+into+Real+Projects;Always+Learning🚀" />
-<h3>
-Hi 👋 I'm <b>Akshitha Reddy</b>
-</h3>
-<p>
-Passionate about Artificial Intelligence, Machine Learning and Full Stack Development.<br>
-I enjoy turning ideas into practical applications that solve real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=750&height=80&lines=AI+%26+ML+Student+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Learner+%E2%9A%A1;Building+AI+Powered+Apps+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%92%9C" alt="Typing SVG" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/g-akshitha-reddy-65a793347/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="g.akshitha.reddy1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gakshithareddy2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
-<br><br>
-
-<a href="https://github.com/gakshithareddy2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:g.akshitha.reddy1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/g-akshitha-reddy-65a793347/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -66,7 +50,6 @@ const Akshitha = {
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> 
@@ -120,6 +103,10 @@ const Akshitha = {
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <h1 align="center">📊 GitHub Analytics</h1>
 
 <div align="center">
@@ -129,11 +116,4 @@ const Akshitha = {
 <img width="49%" src="https://streak-stats.demolab.com?user=gakshithareddy2&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-<br>
-
-
-
-
-
 
