@@ -71,7 +71,7 @@ const Akshitha = {
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> 
-  Tech Arsenal
+  🛠️ Tech Stack
 </h2>
 
 <div align="center">
@@ -121,25 +121,51 @@ const Akshitha = {
 
 </div>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h1 align="center">
+📊 GitHub Analytics
+</h1>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gakshithareddy2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=gakshithareddy2&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gakshithareddy2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF"/>
+
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=gakshithareddy2&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=7F00FF&currStreakLabel=00F7F7"/>
+
 </div>
 
+<br>
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF"/>
+
+</div>
+
+<br>
+
+<h2 align="center">
+🏆 GitHub Trophies
+</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gakshithareddy2&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+<br>
+
+<h2 align="center">
+📈 Contribution Graph
+</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&theme=tokyo-night&hide_border=true&area=true&custom_title=Akshitha's%20GitHub%20Contribution%20Graph"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake.svg" />
-  </picture>
-</div>
 
