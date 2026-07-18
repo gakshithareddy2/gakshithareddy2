@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=220&section=header&text=Akshitha%20Reddy&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&height=80&lines=AI%2FML+Student+at+Woxsen+University;Building+AI-Powered+Applications;Deep+Learning+%7C+Data+Analytics+%7C+Full+Stack;Turning+Ideas+into+Real+Projects;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&height=80&lines=AI%2FML+Student+at+Woxsen+University;Building+AI-Powered+Applications;Deep+Learning+%7C+Data+Analytics+%7C+Full+Stack;Turning+Ideas+into+Real+Projects;Always+Learning🚀" />
 
 <h3>
 Hi 👋 I'm <b>Akshitha Reddy</b>
@@ -120,16 +120,11 @@ const Akshitha = {
 </table>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h1 align="center">📊 GitHub Analytics</h1>
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gakshithareddy2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gakshithareddy2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=gakshithareddy2&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=gakshithareddy2&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -140,5 +135,7 @@ const Akshitha = {
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+
 
 
