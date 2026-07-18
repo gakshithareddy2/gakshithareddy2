@@ -5,13 +5,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=750&height=80&lines=AI+%26+ML+Student+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Learner+%E2%9A%A1;Building+AI+Powered+Apps+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%92%9C" alt="Typing SVG" />
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/g-akshitha-reddy-65a793347/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="YOUR_PORTFOLIO_LINK">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="g.akshitha.reddy1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/gakshithareddy2">
@@ -22,11 +22,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
-
 <img align="right" alt="Coding" width="390" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRkZW1veTdrdm9kNHc5aHBvdjg5bDNjeXVjNHZlNTdhZWx4bHh4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
-
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
-
 ```javascript
 const Akshitha = {
     pronouns: "She/Her",
