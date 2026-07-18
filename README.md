@@ -30,18 +30,20 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<table>
-<tr>
-
-<td width="60%">
-
 ```javascript
 const Akshitha = {
     pronouns: "She/Her",
     location: "Hyderabad, India 🇮🇳",
     currentFocus: "AI & Full Stack Development 🚀",
-    learning: ["MERN Stack", "Data Analytics"],
-    interests: ["AI/ML", "Web Development", "Problem Solving"],
+    learning: [
+        "MERN Stack",
+        "Data Analytics"
+    ],
+    interests: [
+        "AI/ML",
+        "Web Development",
+        "Problem Solving"
+    ],
     motto: "Every great idea starts with a simple 'What if?' 💜",
 
     lifeLoop() {
@@ -53,6 +55,8 @@ const Akshitha = {
         }
     }
 };
+```
+
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
