@@ -23,7 +23,9 @@
 
 </div>
 <img align="right" alt="Coding" width="390" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRkZW1veTdrdm9kNHc5aHBvdjg5bDNjeXVjNHZlNTdhZWx4bHh4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
+
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+
 ```javascript
 const Akshitha = {
     pronouns: "She/Her",
