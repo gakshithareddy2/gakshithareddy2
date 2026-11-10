@@ -52,13 +52,6 @@ const Akshitha = {
   Tech Arsenal
 </h2>
 
-<div align="center">
-
-<div align="center">
-
-## Technical Expertise
-
-<sub>TECHNOLOGIES & TOOLS I WORK WITH</sub>
 
 </div>
 
