@@ -54,50 +54,56 @@ const Akshitha = {
 
 <div align="center">
 
+<div align="center">
 
-<h2 align="center">Technical Skills</h2>
+## Technical Expertise
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<sub>TECHNOLOGIES & TOOLS I WORK WITH</sub>
 
-<h3>01 · Programming</h3>
+</div>
 
-<img src="https://skillicons.dev/icons?i=python" height="38" />
+---
 
-<h3>02 · Web Development</h3>
+### 01. Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" height="38" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=light" height="38"/>
+</div>
 
-<p>REST APIs · Node.js (Basic) · Express.js (Basic)</p>
+### 02. Web Development
 
-<h3>03 · Databases</h3>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=light" height="38"/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="38" />
-
-</td>
-<td width="50%" valign="top">
-
-<h3>04 · AI & Machine Learning</h3>
-
-<p>
-Deep Learning · Data Preprocessing<br/>
-Model Evaluation · CNN<br/>
-Transfer Learning
+<p align="center">
+HTML · CSS · JavaScript · React.js<br/>
+Node.js (Basic) · Express.js (Basic) · REST APIs
 </p>
 
-<h3>05 · Tools & Platforms</h3>
+### 03. Databases
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="38" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" height="38"/>
+</div>
 
-<p>
-XAMPP · Google Colab<br/>
-Microsoft Excel · Power BI
+### 04. AI & Machine Learning
+
+<p align="center">
+Deep Learning &nbsp; · &nbsp; Data Preprocessing &nbsp; · &nbsp; Model Evaluation<br/>
+Convolutional Neural Networks (CNN) &nbsp; · &nbsp; Transfer Learning
 </p>
 
-</td>
-</tr>
-</table>
+### 05. Tools & Platforms
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=light" height="38"/>
+</div>
+
+<p align="center">
+XAMPP &nbsp; · &nbsp; Google Colab &nbsp; · &nbsp; Microsoft Excel &nbsp; · &nbsp; Power BI
+</p>
+
 
 </div>
 
