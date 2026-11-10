@@ -54,46 +54,46 @@ const Akshitha = {
 
 <div align="center">
 
+
 <h2 align="center">Technical Skills</h2>
 
-<table align="center">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### Programming Languages
-- Python
+<h3>01 · Programming</h3>
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Node.js (Basic)
-- Express.js (Basic)
-- REST APIs
+<img src="https://skillicons.dev/icons?i=python" height="38" />
 
-### Databases
-- MySQL
-- MongoDB
+<h3>02 · Web Development</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" height="38" />
+
+<p>REST APIs · Node.js (Basic) · Express.js (Basic)</p>
+
+<h3>03 · Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="38" />
 
 </td>
 <td width="50%" valign="top">
 
-### AI & Machine Learning
-- Deep Learning
-- Data Preprocessing
-- Model Evaluation
-- Convolutional Neural Networks (CNN)
-- Transfer Learning
+<h3>04 · AI & Machine Learning</h3>
 
-### Tools & Platforms
-- Git & GitHub
-- XAMPP
-- Visual Studio Code
-- Jupyter Notebook
-- Google Colab
-- Microsoft Excel
-- Power BI
+<p>
+Deep Learning · Data Preprocessing<br/>
+Model Evaluation · CNN<br/>
+Transfer Learning
+</p>
+
+<h3>05 · Tools & Platforms</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="38" />
+
+<p>
+XAMPP · Google Colab<br/>
+Microsoft Excel · Power BI
+</p>
 
 </td>
 </tr>
