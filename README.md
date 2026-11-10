@@ -103,16 +103,6 @@ const Akshitha = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshithareddy2&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <br>
 
 <div align="center">
