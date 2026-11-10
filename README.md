@@ -55,6 +55,15 @@ const Akshitha = {
 
 </div>
 
+
+<div align="center">
+
+## Technical Expertise
+
+<sub>TECHNOLOGIES & TOOLS I WORK WITH</sub>
+
+</div>
+
 ---
 
 ### 01. Programming Languages
