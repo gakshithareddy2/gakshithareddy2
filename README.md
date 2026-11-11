@@ -1,7 +1,7 @@
 
-<h1 align="center">
-  <span style="font-size: 60px;">G. Akshitha Reddy</span>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=G.%20Akshitha%20Reddy&fontSize=52&fontColor=000000&fontAlign=50&fontAlignY=60&animation=fadeIn" width="100%" alt="G. Akshitha Reddy"/>
+</p>
 
 <hr>
 
