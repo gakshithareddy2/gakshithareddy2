@@ -1,5 +1,7 @@
 
-<h1 align="center">G. Akshitha Reddy</h1>
+<h1 align="center">
+  <span style="font-size: 40px;">G. Akshitha Reddy</span>
+</h1>
 
 <hr>
 
