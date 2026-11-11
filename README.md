@@ -68,83 +68,58 @@ const Akshitha = {
 
 <hr>
 
+<hr>
 
 <h2 align="center">Technical Skills</h2>
-
 <p align="center">
   <sub>TECHNOLOGIES & TOOLS I WORK WITH</sub>
 </p>
 
 <br>
 
-<table width="100%" border="0">
-<tr>
-<td width="50%" align="center" valign="top" style="border: none; background: transparent;">
+<div align="center">
 
-<h3>01. Programming Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=light" height="38"/>
-
-</td>
-
-<td width="50%" align="center" valign="top" style="border: none; background: transparent;">
-
-<h3>02. Frontend Development</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=light" height="38"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center" valign="top" style="border: none; background: transparent;">
-
-<h3>03. Backend Development</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" height="38"/>
-
-<p>REST APIs</p>
-
-</td>
-
-<td width="50%" align="center" valign="top" style="border: none; background: transparent;">
-
-<h3>04. Databases</h3>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" height="38"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center" valign="top" style="border: none; background: transparent;">
-
-<h3>05. AI & Machine Learning</h3>
-
-<p>
-Machine Learning · Deep Learning<br>
-CNN · Transfer Learning · NLP<br>
-Pandas · NumPy · Scikit-learn
-</p>
-
-</td>
-
-<td width="50%" align="center" valign="top" style="border: none; background: transparent;">
-
-<h3>06. Tools & Platforms</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=light" height="38"/>
-
-<p>Google Colab · Power BI · Excel</p>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>01. Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,java,js&theme=light" height="38"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>02. Frontend Development</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=light" height="38"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>03. Backend Development</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" height="38"/>
+      <p>REST APIs</p>
+    </td>
+    <td align="center">
+      <h3>04. Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" height="38"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>05. AI & Machine Learning</h3>
+      Machine Learning · Deep Learning<br>
+      CNN · Transfer Learning · NLP<br>
+      Pandas · NumPy · Scikit-learn
+    </td>
+    <td align="center">
+      <h3>06. Tools & Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=light" height="38"/><br>
+      Google Colab · Power BI · Excel
+    </td>
+  </tr>
 </table>
 
+</div>
+
 <br>
-
 <hr>
-
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
