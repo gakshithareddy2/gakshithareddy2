@@ -38,7 +38,6 @@
      ABOUT ME
 ========================================= -->
 
-
 <table>
 <tr>
 <td width="60%" valign="top" align="left">
@@ -64,15 +63,7 @@ const Akshitha = {
 
 <td width="40%" align="center" valign="middle">
 
-<img src="YOUR_GIF_LINK" width="100%" alt="Coding Animation"/>
-
-</td>
-</tr>
-</table>
-
-<td width="40%" align="center" valign="middle">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRkZW1veTdrdm9kNHc5aHBvdjg5bDNjeXVjNHZlNTdhZWx4bHh4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="100%" alt="Coding Animation"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRkZW1veTdrdm9kNHc5aHBvdjg5bDNjeXVjNHZlNTdhZWx4bHh4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="100%" alt="Coding Animation" width="100%" alt="Coding Animation"/>
 
 </td>
 </tr>
