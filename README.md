@@ -66,57 +66,79 @@ const Akshitha = {
 
 <br>
 
+<!-- TECH ARSENAL -->
 <hr>
 
-<hr>
-
-<h2 align="center">Technical Skills</h2>
+<h2 align="center">⚡ Tech Arsenal</h2>
 <p align="center">
   <sub>TECHNOLOGIES & TOOLS I WORK WITH</sub>
 </p>
 
 <br>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>01. Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,java,js&theme=light" height="38"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>02. Frontend Development</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=light" height="38"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>03. Backend Development</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" height="38"/>
-      <p>REST APIs</p>
-    </td>
-    <td align="center">
-      <h3>04. Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" height="38"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>05. AI & Machine Learning</h3>
-      Machine Learning · Deep Learning<br>
-      CNN · Transfer Learning · NLP<br>
-      Pandas · NumPy · Scikit-learn
-    </td>
-    <td align="center">
-      <h3>06. Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=light" height="38"/><br>
-      Google Colab · Power BI · Excel
-    </td>
-  </tr>
+<h3>🎨 Frontend Development</h3>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+<h3>⚙️ Backend Development</h3>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
+</p>
+
+<h3>🤖 AI & Machine Learning</h3>
+<p>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transfer_Learning-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-5C6BC0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💻 Programming Languages</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<h3>🗄️ Database & Storage</h3>
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<h3>🛠️ Tools & Platforms</h3>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+</td>
+</tr>
 </table>
-
-</div>
 
 <br>
 <hr>
