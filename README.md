@@ -68,6 +68,7 @@ const Akshitha = {
 
 <hr>
 
+
 <h2 align="center">Technical Skills</h2>
 
 <p align="center">
@@ -76,16 +77,17 @@ const Akshitha = {
 
 <br>
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="border: none; background: transparent;">
 
 <h3>01. Programming Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=python,java,js&theme=light" height="38"/>
 
 </td>
-<td width="50%" align="center" valign="top">
+
+<td width="50%" align="center" valign="top" style="border: none; background: transparent;">
 
 <h3>02. Frontend Development</h3>
 
@@ -95,7 +97,7 @@ const Akshitha = {
 </tr>
 
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="border: none; background: transparent;">
 
 <h3>03. Backend Development</h3>
 
@@ -104,7 +106,8 @@ const Akshitha = {
 <p>REST APIs</p>
 
 </td>
-<td width="50%" align="center" valign="top">
+
+<td width="50%" align="center" valign="top" style="border: none; background: transparent;">
 
 <h3>04. Databases</h3>
 
@@ -114,7 +117,7 @@ const Akshitha = {
 </tr>
 
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="border: none; background: transparent;">
 
 <h3>05. AI & Machine Learning</h3>
 
@@ -125,7 +128,8 @@ Pandas · NumPy · Scikit-learn
 </p>
 
 </td>
-<td width="50%" align="center" valign="top">
+
+<td width="50%" align="center" valign="top" style="border: none; background: transparent;">
 
 <h3>06. Tools & Platforms</h3>
 
@@ -140,6 +144,7 @@ Pandas · NumPy · Scikit-learn
 <br>
 
 <hr>
+
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
