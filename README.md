@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">
-  Computer Science (AI & ML) Student · Full-Stack Developer
+  Computer Science (AI & ML) Student 
   <br>
   Woxsen University, Hyderabad
 </p>
