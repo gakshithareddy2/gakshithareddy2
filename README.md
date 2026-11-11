@@ -39,13 +39,13 @@
 ========================================= -->
 
 
-<h2 align="center">💙 About Me</h2>
-
-<table width="100%">
+<table>
 <tr>
-<td width="60%" valign="middle">
+<td width="60%" valign="top" align="left">
 
-<pre>
+<h3 align="left">💙 About Me</h3>
+
+<pre align="left">
 const Akshitha = {
   pronouns: "She/Her",
   location: "Hyderabad, India",
@@ -61,6 +61,14 @@ const Akshitha = {
 </pre>
 
 </td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="YOUR_GIF_LINK" width="100%" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
 
 <td width="40%" align="center" valign="middle">
 
