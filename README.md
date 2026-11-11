@@ -76,77 +76,70 @@ const Akshitha = {
 
 <br>
 
-<h3 align="center">01. Programming Languages</h3>
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<h3>01. Programming Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=light" height="38"/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>02. Frontend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=light" height="38"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+<h3>03. Backend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" height="38"/>
+
+<p>REST APIs</p>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>04. Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" height="38"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+<h3>05. AI & Machine Learning</h3>
+
+<p>
+Machine Learning · Deep Learning<br>
+CNN · Transfer Learning · NLP<br>
+Pandas · NumPy · Scikit-learn
 </p>
 
-<br>
+</td>
+<td width="50%" align="center" valign="top">
 
-<h3 align="center">02. Frontend Development</h3>
+<h3>06. Tools & Platforms</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=light" height="38"/>
 
-<br>
+<p>Google Colab · Power BI · Excel</p>
 
-<h3 align="center">03. Backend Development</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
-
-<br>
-
-<h3 align="center">04. Databases</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-<br>
-
-<h3 align="center">05. AI & Machine Learning</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Transfer_Learning-00897B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NLP-5C6BC0?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-</p>
-
-<br>
-
-<h3 align="center">06. Tools & Platforms</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-</p>
+</td>
+</tr>
+</table>
 
 <br>
 
 <hr>
-
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
