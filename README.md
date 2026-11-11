@@ -145,13 +145,6 @@ const Akshitha = {
 
 <hr>
 
-<h2 align="center">GitHub Activity</h2>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&theme=github-light&hide_border=true"/>
-</p>
-
-<br>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
