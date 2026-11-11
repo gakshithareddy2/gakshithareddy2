@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <span style="font-size: 40px;">G. Akshitha Reddy</span>
+  <span style="font-size: 60px;">G. Akshitha Reddy</span>
 </h1>
 
 <hr>
