@@ -162,24 +162,6 @@ const Akshitha = {
 
 <br>
 
-<hr>
-
-<!-- =========================================
-     CONTRIBUTION GRAPH
-========================================= -->
-
-<h2 align="center">📊 Contribution Activity</h2>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&bg_color=ffffff&color=2563EB&line=60A5FA&point=172554&area=true&area_color=DBEAFE&hide_border=true" alt="Contribution Activity Graph"/>
-
-</div>
-
-<br>
-
-<hr>
-
 <!-- =========================================
      CONTRIBUTION SNAKE
 ========================================= -->
