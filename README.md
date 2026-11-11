@@ -1,135 +1,167 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=180&section=header&text=Akshitha%20Reddy&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<h1 align="center">G. Akshitha Reddy</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=750&height=80&lines=AI+%26+ML+Student+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+AI+Powered+Apps+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%92%9C" alt="Typing SVG" />
+<hr>
+
+<p align="center">
+  Computer Science (AI & ML) Student · Full-Stack Developer
+  <br>
+  Woxsen University, Hyderabad
+</p>
+
+<p align="center">
+  <b>Machine Learning · Predictive Models · Full-Stack Development</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/g-akshitha-reddy-65a793347/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="g.akshitha.reddy1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  &nbsp;
+  <a href="mailto:g.akshitha.reddy1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
-</div>
-<img align="right" alt="Coding" width="390" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRkZW1veTdrdm9kNHc5aHBvdjg5bDNjeXVjNHZlNTdhZWx4bHh4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
+<!-- ABOUT ME -->
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-```javascript
+<h3>About Me</h3>
+
+<pre>
 const Akshitha = {
-    pronouns: "She/Her",
-    location: "Hyderabad, India 🇮🇳",
-    currentFocus: "AI & Full Stack Development 🚀",
-    learning: ["MERN Stack","Data Analytics"],
-    interests: ["AI/ML", "Web Development", "Problem Solving"],
-    motto: "Every great idea starts with a simple What if? 💜",
-    
-    lifeLoop: function() {
-        while(alive) {
-            learn();
-            code();
-            create();
-            repeat();
-        }
-    }
+  pronouns: "She/Her",
+  location: "Hyderabad, India",
+  currentFocus: "AI & Full Stack Development",
+  learning: ["MERN Stack", "Data Analytics"],
+  interests: [
+    "AI/ML",
+    "Web Development",
+    "Problem Solving"
+  ],
+  motto: "Every great idea starts with a simple What if?"
 };
-```
+</pre>
 
-<br clear="right"/>
+</td>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<td width="40%" align="center" valign="middle">
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> 
-  Tech Arsenal
-</h2>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRkZW1veTdrdm9kNHc5aHBvdjg5bDNjeXVjNHZlNTdhZWx4bHh4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="100%" alt="Coding Animation"/>
 
-
-</div>
-
-
-<div align="center">
-
-## Technical Expertise
-
-<sub>TECHNOLOGIES & TOOLS I WORK WITH</sub>
-
-</div>
-
----
-
-### 01. Programming Languages
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python&theme=light" height="38"/>
-</div>
-
-### 02. Web Development
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=light" height="38"/>
-</div>
-
-<p align="center">
-HTML · CSS · JavaScript · React.js<br/>
-Node.js (Basic) · Express.js (Basic) · REST APIs
-</p>
-
-### 03. Databases
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" height="38"/>
-</div>
-
-### 04. AI & Machine Learning
-
-<p align="center">
-Deep Learning &nbsp; · &nbsp; Data Preprocessing &nbsp; · &nbsp; Model Evaluation<br/>
-Convolutional Neural Networks (CNN) &nbsp; · &nbsp; Transfer Learning
-</p>
-
-### 05. Tools & Platforms
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=light" height="38"/>
-</div>
-
-<p align="center">
-XAMPP &nbsp; · &nbsp; Google Colab &nbsp; · &nbsp; Microsoft Excel &nbsp; · &nbsp; Power BI
-</p>
-
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
+<hr>
 
-<img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&theme=tokyo-night&hide_border=true"/>
+<h2 align="center">Technical Skills</h2>
 
-</div>
+<p align="center">
+  <sub>TECHNOLOGIES & TOOLS I WORK WITH</sub>
+</p>
 
 <br>
+
+<h3 align="center">01. Programming Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<br>
+
+<h3 align="center">02. Frontend Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+<br>
+
+<h3 align="center">03. Backend Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+<br>
+
+<h3 align="center">04. Databases</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+<br>
+
+<h3 align="center">05. AI & Machine Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Transfer_Learning-00897B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-5C6BC0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</p>
+
+<br>
+
+<h3 align="center">06. Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+<br>
+
+<hr>
+
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gakshithareddy2&theme=github-light&hide_border=true"/>
+</p>
+
+<br>
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake.svg">
-    <img alt="GitHub Snake"
+    <img alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/gakshithareddy2/gakshithareddy2/output/github-snake.svg">
   </picture>
-</div>
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=120&section=footer"/>
+</p>
